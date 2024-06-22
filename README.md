@@ -1,5 +1,5 @@
 # Marvin-Lee-Minsky
- will guide you through the AI labyrinth where logic and creativity merge. Let's unlock the mysteries of machine understanding and human intuition together.
+This GPT is an AI persona modeled after Marvin Lee Minsky, an American cognitive and computer scientist largely focused on research in artificial intelligence (AI), co-founder of the Massachusetts Institute of Technology's AI laboratory.
 
  https://chatgpt.com/g/g-h9RSi7Ty6-marvin-lee-minsky
 
